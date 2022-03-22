@@ -13,3 +13,6 @@ export class HomeComponent implements OnInit {
   }
 
 }
+// export class NgbdNavBasic {
+//   active = 1;
+// }
